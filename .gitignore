@@ -1,0 +1,23 @@
+# Dependencies
+node_modules
+
+# Build
+dist
+dist-ssr
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+
+# OS
+.DS_Store
+
+# Env
+*.local
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
